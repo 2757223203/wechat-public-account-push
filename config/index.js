@@ -1,19 +1,19 @@
 export const config = {
     // 公众号配置
     // 公众号appId
-    appId: "wx57a02412afd8b65a",
+    appId: "wx882fcdff56fc73d1",
     // 公众号appSecret
-    appSecret: "3ba4954cf69e91d1684a503d0e8b0d75",
+    appSecret: "1e006dbbe1daa9c972d00a18d84e1b02",
     // 模板消息id
-    templateId: "zTzHVHOl3H_xZzpndZfSLatNcEWOKEUX75npUjbQroQ",
+    templateId: "z-1kotG8gjMipriXVmvhzYikDaSZJfxIy8fTZjpxu48",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["ofJVv51NcvwJRPxfKprX97lpC2qs","ofJVv510JF0safI9TFzp6Ma9hyXU"],
+    user: ["oVBhR5yI90B5BRQ99-SL3J4s91G8"],
      
     // 信息配置
     // 所在省份
     province: "山东",
     // 所在城市
-    city: "淄博",
+    city: "青岛",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "宝宝", "year": "2003", "date": "04-21", "type": 'new'}
